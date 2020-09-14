@@ -19,7 +19,6 @@ Assuntos: Pandas, Matplotlib, Seaborn e Bokeh
 - [Exercicios 03](estatistica-e-aplicacoes/aula03_pratica.ipynb)
 - [Exercicios 04](estatistica-e-aplicacoes/aula04_pratica.ipynb)
 - [Exercicios 05](estatistica-e-aplicacoes/aula05_pratica.ipynb)
-- [Geral](estatistica-e-aplicacoes/estatistica-e-aplicacoes-aulas.ipynb)
 
 ## Outros notebooks
 - [YouTube](outros-notebooks/youtube.ipynb)
