@@ -14,7 +14,7 @@ Assuntos: Pandas, Matplotlib, Seaborn e Bokeh
 - [Análise mercado de trabalho para Ciência de dados](analise-visualizacao-de-dados/data_hackers_survey_2019.ipynb)
 
 ### Estatística e Aplicações
-- [Exercicios 01](estatistica-e-aplicacoes/aula01_pratica.ipynb)
+- [Exercicios 01](estatistica-e-aplicacoes/aula01_pratica.ipynb) [Minimo, Maximo, Amplitude, Intervalo, Frequencia, Frequencia Relativa, Tipos de Variaveis, Pandas]
 - [Exercicios 02](estatistica-e-aplicacoes/exercicios_aula02.ipynb)
 - [Exercicios 03](estatistica-e-aplicacoes/aula03_pratica.ipynb)
 - [Exercicios 04](estatistica-e-aplicacoes/aula04_pratica.ipynb)
