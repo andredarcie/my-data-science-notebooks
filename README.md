@@ -24,6 +24,14 @@ Assuntos: Pandas, Matplotlib, Seaborn e Bokeh
 - [Exercicios 08 - teorica](estatistica-e-aplicacoes/aula_08_teorica.ipynb)
 - [Exercicios 08](estatistica-e-aplicacoes/aula_08_pratica.ipynb)
 
+### Banco de Dados Relacionais e Não Relacionais
+### Aprendizado de Máquina I
+### Processamento de Linguagem Natural
+### Aprendizado de Máquina II
+### Análise e Classificação de Imagens
+### Sistemas de Recomendação
+### Big Data & Processamento Distribuído
+
 ## Outros notebooks
 - [YouTube](outros-notebooks/youtube.ipynb)
 - [Wikipedia Crawler](outros-notebooks/video-game-considered-the-best.ipynb)
