@@ -82,10 +82,10 @@ INSERT INTO Cliente (`nom_cliente`, `dsc_profissao`, `nom_cidade`) VALUES
 ('Ludwig van Beethoven', 'Compositor', 'Bonn')
 
 INSERT INTO Agencia (`nom_agencia`, `nom_cidade`) VALUES 
-('Itaú Unibanco', 'São Paulo'),
-('Banco do Brasil', 'Rio de Janeiro'),
-('Bradesco', 'Brasília'),
-('Caixa Econômica Federal', 'Salvador')
+('Agencia A', 'São Paulo'),
+('Agencia B', 'Rio de Janeiro'),
+('Agencia C', 'Brasília'),
+('Agencia D', 'Salvador')
 
 INSERT INTO Conta (`tipo_conta`, `cod_cliente`, `cod_agencia`, `vlr_saldo`) VALUES 
 ('Corrente', 1, 1, 10000),
@@ -113,7 +113,7 @@ SELECT * FROM `cliente` WHERE nom_cidade = 'Poços de Caldas'
 
 3) Quais os clientes (cod_cliente) com contas na agência cod_agencia = 123?
 ```sql
-SELECT * 
+SELECT cliente.cod_cliente 
 FROM cliente 
 INNER JOIN conta ON cliente.cod_cliente = conta.cod_cliente
 INNER JOIN agencia ON conta.cod_agencia = agencia.cod_agencia AND agencia.cod_agencia = 123
@@ -129,8 +129,13 @@ INNER JOIN agencia ON conta.cod_agencia = agencia.cod_agencia AND agencia.cod_ag
 
 5) Quantas contas existem em todas as agências do Banco?
 ```sql
+SELECT COUNT(*) FROM agencia, conta WHERE conta.cod_agencia = agencia.cod_agencia
 ```
 
 6) Quantos clientes possuem contas na agência cujo cod_agencia = 6?
 ```sql
+SELECT COUNT(*) 
+FROM cliente 
+INNER JOIN conta ON cliente.cod_cliente = conta.cod_cliente 
+INNER JOIN agencia ON conta.cod_agencia = agencia.cod_agencia AND agencia.cod_agencia = 6
 ```
