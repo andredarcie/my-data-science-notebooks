@@ -25,6 +25,8 @@ Assuntos: Pandas, Matplotlib, Seaborn e Bokeh
 - [Exercicios 08](estatistica-e-aplicacoes/aula_08_pratica.ipynb)
 
 ### Banco de Dados Relacionais e Não Relacionais
+- [SQL](sql.md)
+
 ### Aprendizado de Máquina I
 ### Processamento de Linguagem Natural
 ### Aprendizado de Máquina II
