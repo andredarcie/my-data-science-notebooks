@@ -121,10 +121,10 @@ INNER JOIN agencia ON conta.cod_agencia = agencia.cod_agencia AND agencia.cod_ag
 
 4) Quais os clientes com empréstimos de valor superior a R$ 2.000,00?
 ```sql
-SELECT cliente.cod_cliente
+SELECT cliente.cod_cliente 
 FROM cliente 
-INNER JOIN conta ON cliente.cod_cliente = conta.cod_cliente
-INNER JOIN agencia ON conta.cod_agencia = agencia.cod_agencia AND agencia.cod_agencia = 123
+INNER JOIN emprestimo ON cliente.cod_cliente = emprestimo.cod_cliente 
+WHERE emprestimo.vlr_emprestimo > 2000
 ```
 
 5) Quantas contas existem em todas as agências do Banco?
