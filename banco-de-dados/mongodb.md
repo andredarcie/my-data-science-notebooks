@@ -30,7 +30,7 @@ db.bios.find( espaço-em-branco )
 ```
 
 ## Pergunta 6 - A partir dos índices criados na consulta anterior, complete a consulta abaixo de forma que 
-## esta retorne os documentos com os nomes dos que tenham um prêmio "Turing Award"
+esta retorne os documentos com os nomes dos que tenham um prêmio "Turing Award"
 
 ```js
 db.bios.find({$text: { espaço-em-branco }, {name:1, _id:0 })
