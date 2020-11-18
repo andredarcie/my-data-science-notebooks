@@ -25,7 +25,9 @@ Assuntos: Pandas, Matplotlib, Seaborn e Bokeh
 - [Exercicios 08](estatistica-e-aplicacoes/aula_08_pratica.ipynb)
 
 ### Banco de Dados Relacionais e Não Relacionais
-- [SQL](banco-de-dados/sql.md)
+- [SQL](banco-de-dados/sql.md) - Criação de tabelas e consultas em MariaDb/MySQL
+- [NoSQL MongoDB](banco-de-dados/mongodb.md) - Criação das tabelas e consultas
+- [NoSQL Cassandra](banco-de-dados/cassandra.md) - Criação das tabelas e consultas
 
 ### Aprendizado de Máquina I
 ### Processamento de Linguagem Natural
