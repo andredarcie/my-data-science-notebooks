@@ -49,6 +49,9 @@
 - [NoSQL Cassandra](banco-de-dados/cassandra.md) - Criação das tabelas e consultas
 
 ### Aprendizado de Máquina I
+🛠️ Ferramentas: Python, Anaconda, Sklearn
+- [Preditor de Espécies da Flor Íris](aprendizado-de-maquina-i/iris-predictor-app/notebooks/modelagem.ipynb)
+
 ### Processamento de Linguagem Natural
 ### Aprendizado de Máquina II
 ### Análise e Classificação de Imagens
