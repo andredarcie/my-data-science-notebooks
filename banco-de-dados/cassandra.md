@@ -28,7 +28,7 @@ id_embarque
 
 Tabela C1:
 ```
-CREATE TABLE Usuarios_desembarcaram_parada
+CREATE TABLE Usuarios_desembarcaram_em_uma_determinada_parada
 (id_usuario int, id_parada int, id_embarque int, id_vaigem int, hora_embarque
 timestamp, nome varchar(255)
 PRIMARY KEY ((id_ usuario), id_parada, id_embarque))
@@ -36,7 +36,7 @@ PRIMARY KEY ((id_ usuario), id_parada, id_embarque))
 
 Tabela C2:
 ```
-CREATE TABLE Usuario_parada_embarcaram_desembarque
+CREATE TABLE Usuario_parada_de_embarque_e_desembarque
 (id_usuario int, id_viagem int, id_parada int, id_embarque int, nome varchar(255)
 PRIMARY KEY ((id_ usuario), id_viagem)) 
 ```
@@ -45,14 +45,14 @@ PRIMARY KEY ((id_ usuario), id_viagem))
 
 Consulta c1:
 ```
-SELECT u.id_usuario, u.nome, d.id_embarque, v.id_viagem, p.id_parada
-FROM Usuarios_desembarcaram_parada
-WHERE p.id_parada IN (parada_desejada)
+SELECT id_usuario, nome, id_embarque, id_viagem, id_parada
+FROM Usuarios_desembarcaram_em_uma_determinada_parada
+WHERE id_parada IN (parada_desejada)
 ```
 
 Consulta c2:
 ```
-SELECT u.id_usuario, u.nome, d.id_embarque, p.id_parada
-FROM Usuario_parada_embarcaram_desembarque
-WHERE v.id_viagem IN (parada_desejada)
+SELECT id_usuario, nome, id_embarque, id_parada
+FROM Usuario_parada_de_embarque_e_desembarque
+WHERE id_viagem IN (parada_desejada)
 ```
