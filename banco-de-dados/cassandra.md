@@ -45,14 +45,12 @@ PRIMARY KEY ((id_ usuario), id_viagem))
 
 Consulta c1:
 ```
-SELECT id_usuario, nome, id_embarque, id_viagem, id_parada
-FROM Usuarios_desembarcaram_em_uma_determinada_parada
+SELECT * FROM Usuarios_desembarcaram_em_uma_determinada_parada
 WHERE id_parada IN (parada_desejada)
 ```
 
 Consulta c2:
 ```
-SELECT id_usuario, nome, id_embarque, id_parada
-FROM Usuario_parada_de_embarque_e_desembarque
+SELECT * FROM Usuario_parada_de_embarque_e_desembarque
 WHERE id_viagem IN (parada_desejada)
 ```
