@@ -52,6 +52,7 @@
 🛠️ Ferramentas: Python, Anaconda, Sklearn
 - [Modelagem Preditor de Espécies da Flor Íris](aprendizado-de-maquina-i/iris-predictor-app/notebooks/modelagem.ipynb)
 - [Iris Predictor App](https://github.com/andredarcie/iris-predictor-app)
+- [Sommelier Inteligente App](https://github.com/andredarcie/sommelier-inteligente-app)
 
 ### Processamento de Linguagem Natural
 ### Aprendizado de Máquina II
