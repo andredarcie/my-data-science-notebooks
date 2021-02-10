@@ -52,7 +52,8 @@
 🛠️ Ferramentas: Python, Anaconda, Sklearn
 - [Modelagem Preditor de Espécies da Flor Íris](aprendizado-de-maquina-i/iris-predictor-app/notebooks/modelagem.ipynb)
 - [Iris Predictor App](https://github.com/andredarcie/iris-predictor-app)
-- [Sommelier Inteligente App](https://github.com/andredarcie/sommelier-inteligente-app)
+- [Sommelier Inteligente App](https://github.com/andredarcie/sommelier-inteligente-app)   
+- [Cifose](aprendizado-de-maquina-i/analise-de-classificadores/kyphosis_make_model.ipynb) (DecisionTreeClassifier, RandomForestClassifier)
 
 ### Processamento de Linguagem Natural
 ### Aprendizado de Máquina II
