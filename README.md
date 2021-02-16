@@ -54,7 +54,8 @@
 - [Iris Predictor App](https://github.com/andredarcie/iris-predictor-app)
 - [Sommelier Inteligente App](https://github.com/andredarcie/sommelier-inteligente-app)   
 - [Cifose](aprendizado-de-maquina-i/analise-de-classificadores/kyphosis_make_model.ipynb) (DecisionTreeClassifier, RandomForestClassifier)
-- [Diabetes - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/analise-de-classificadores/modelagem_v2.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)
+- [Diabetes - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/analise-de-classificadores/modelagem_v2.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)   
+- [Vinho - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/classificadores/wine_classifier.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)    
 
 ### Processamento de Linguagem Natural
 ### Aprendizado de Máquina II
