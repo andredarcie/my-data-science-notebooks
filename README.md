@@ -56,6 +56,7 @@
 - [Cifose](aprendizado-de-maquina-i/analise-de-classificadores/kyphosis_make_model.ipynb) (DecisionTreeClassifier, RandomForestClassifier)
 - [Diabetes - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/analise-de-classificadores/modelagem_v2.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)   
 - [Vinho - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/classificadores/wine_classifier.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)    
+- [Aprovação de crédito - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/classificadores/credit_classifier.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)    
 
 ### Processamento de Linguagem Natural
 ### Aprendizado de Máquina II
