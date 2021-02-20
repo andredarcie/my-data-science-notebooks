@@ -44,22 +44,24 @@
 
 ### Banco de Dados Relacionais e Não Relacionais
 🛠️ Ferramentas: MariaDB, MongoDB, Cassandra
+
 - [SQL](banco-de-dados/sql.md) - Criação de tabelas e consultas em MariaDb/MySQL
 - [NoSQL MongoDB](banco-de-dados/mongodb.md) - Criação das tabelas e consultas
 - [NoSQL Cassandra](banco-de-dados/cassandra.md) - Criação das tabelas e consultas
 
 ### Aprendizado de Máquina I
 🛠️ Ferramentas: Python, Anaconda, Sklearn
+
 - [Modelagem Preditor de Espécies da Flor Íris](aprendizado-de-maquina-i/iris-predictor-app/notebooks/modelagem.ipynb)
 - [Iris Predictor App](https://github.com/andredarcie/iris-predictor-app)
 - [Sommelier Inteligente App](https://github.com/andredarcie/sommelier-inteligente-app)   
-- [Cifose](aprendizado-de-maquina-i/analise-de-classificadores/kyphosis_make_model.ipynb) (DecisionTreeClassifier, RandomForestClassifier)
-- [Diabetes - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/analise-de-classificadores/modelagem_v2.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)   
-- [Vinho - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/classificadores/wine_classifier.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)    
-- [Aprovação de crédito - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/classificadores/credit_classifier.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)    
+- [Classificação - Cifose](aprendizado-de-maquina-i/analise-de-classificadores/kyphosis_make_model.ipynb) (DecisionTreeClassifier, RandomForestClassifier)
+- [Classificação - Diabetes - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/analise-de-classificadores/modelagem_v2.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)   
+- [Classificação - Vinho - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/classificadores/wine_classifier.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)    
+- [Classificação - Aprovação de crédito - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/classificadores/credit_classifier.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)    
 - [ Regressão - Linear Simples ](aprendizado-de-maquina-i/regressao/regressao_linear_simples.ipynb)
 - [ Regressão - Linear Multipla ](aprendizado-de-maquina-i/regressao/regressao_linear_multipla.ipynb)
-- [ Regressão - Comparação entre métricas de erro ](aprendizado-de-maquina-i/regressao/salaries.ipynb)
+- [ Regressão - Comparação entre métricas de avaliação ](aprendizado-de-maquina-i/regressao/salaries.ipynb)
 
 ### Processamento de Linguagem Natural
 ### Aprendizado de Máquina II
