@@ -57,6 +57,9 @@
 - [Diabetes - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/analise-de-classificadores/modelagem_v2.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)   
 - [Vinho - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/classificadores/wine_classifier.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)    
 - [Aprovação de crédito - Comparação entre diferentes classificadores](aprendizado-de-maquina-i/classificadores/credit_classifier.ipynb) (KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier)    
+- [ Regressão - Linear Simples ](aprendizado-de-maquina-i/regressao/regressao_linear_simples.ipynb)
+- [ Regressão - Linear Multipla ](aprendizado-de-maquina-i/regressao/regressao_linear_multipla.ipynb)
+- [ Regressão - Comparação entre métricas de erro ](aprendizado-de-maquina-i/regressao/salaries.ipynb)
 
 ### Processamento de Linguagem Natural
 ### Aprendizado de Máquina II
