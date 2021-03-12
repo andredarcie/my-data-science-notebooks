@@ -63,6 +63,7 @@
 - [ Regressão - Linear Multipla ](aprendizado-de-maquina-i/regressao/regressao_linear_multipla.ipynb)
 - [ Regressão - Comparação entre métricas de avaliação ](aprendizado-de-maquina-i/regressao/salaries.ipynb)
 - [ Regressão - Standard Scaler ](aprendizado-de-maquina-i/regressao/regressao_com_svr.ipynb)
+- [ Regressão - Temperaturas ](aprendizado-de-maquina-i/regressao/temps.ipynb)
 
 ### Processamento de Linguagem Natural
 ### Aprendizado de Máquina II
