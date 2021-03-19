@@ -52,6 +52,7 @@
 ### Aprendizado de Máquina I
 🛠️ Ferramentas: Python, Anaconda, Sklearn
 
+#### Supervisionado
 - [Modelagem Preditor de Espécies da Flor Íris](aprendizado-de-maquina-i/iris-predictor-app/notebooks/modelagem.ipynb)
 - [Iris Predictor App](https://github.com/andredarcie/iris-predictor-app)
 - [Sommelier Inteligente App](https://github.com/andredarcie/sommelier-inteligente-app)   
@@ -64,6 +65,14 @@
 - [ Regressão - Comparação entre métricas de avaliação ](aprendizado-de-maquina-i/regressao/salaries.ipynb)
 - [ Regressão - Standard Scaler ](aprendizado-de-maquina-i/regressao/regressao_com_svr.ipynb)
 - [ Regressão - Temperaturas ](aprendizado-de-maquina-i/regressao/temps.ipynb)
+
+#### Não Supervisionado
+- [ Clustering - Eurovision ](aprendizado-de-maquina-i/clustering/eurovision_vh.ipynb)
+- [ Clustering - Iris KMeans ](aprendizado-de-maquina-i/clustering/iris_kmeans.ipynb)
+
+#### Projetos
+- [ Avaliação de algoritmos de Regressão - Bike Sharing](aprendizado-de-maquina-i/projetos/bike_sharing.ipynb)
+- [ Clustering K-Means e DBSCAN - Heart Disease](aprendizado-de-maquina-i/projetos/heart_disease.ipynb)
 
 ### Processamento de Linguagem Natural
 ### Aprendizado de Máquina II
