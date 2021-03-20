@@ -75,6 +75,8 @@
 - [ Clustering K-Means e DBSCAN - Heart Disease](aprendizado-de-maquina-i/projetos/heart_disease.ipynb)
 
 ### Processamento de Linguagem Natural
+- [ Hello World ](processamento-de-linguagem-natural/hello-world.ipynb)
+
 ### Aprendizado de Máquina II
 ### Análise e Classificação de Imagens
 ### Sistemas de Recomendação
