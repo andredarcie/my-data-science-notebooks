@@ -78,6 +78,8 @@
 - [ Hello World ](processamento-de-linguagem-natural/hello-world.ipynb)
 
 ### Aprendizado de Máquina II
+- [ Pre Processamento ](aprendizado-de-maquina-ii/pre-processamento.ipynb)
+
 ### Análise e Classificação de Imagens
 ### Sistemas de Recomendação
 ### Big Data & Processamento Distribuído
