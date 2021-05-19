@@ -84,8 +84,9 @@
 - [ Resumo Stemização e Lematização ](processamento-de-linguagem-natural/aula2.ipynb)
 - [ Identificador de Tags ](processamento-de-linguagem-natural/aula4.ipynb)
 - [ Calcula Similaridade - CountVectorizer, TfidfVectorizer, BigramCollocationFinder ](processamento-de-linguagem-natural/Aula05_parte01.ipynb)
-- [ Uso da lib goose3 ](processamento-de-linguagem-natural/CodigoSala.ipynb)
-
+- [ Uso da lib goose3 ](processamento-de-linguagem-natural/CodigoSala.ipynb) 
+- [ Projeto Final - Chatbot ](https://github.com/andredarcie/chatbot-tensorflow) 
+  
 ### Aprendizado de Máquina II
 - [ Pre Processamento ](aprendizado-de-maquina-ii/pre-processamento.ipynb)
 
