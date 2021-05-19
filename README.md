@@ -15,6 +15,8 @@
 10. [Sistemas de Recomendação]()
 11. [Big Data & Processamento Distribuído]()
 
+[⭐ Python in one Page](https://github.com/andredarcie/python-in-one-page/blob/master/python_in_one_page.ipynb)
+
 ### Programação em Python <a name="programacao-em-python"></a>
 
 🛠️ Ferramentas: Python, Jupyter Notebook, NumPy, Matplotlib e Pandas
