@@ -75,6 +75,8 @@
 - [ Clustering K-Means e DBSCAN - Heart Disease](aprendizado-de-maquina-i/projetos/heart_disease.ipynb)
 
 ### Processamento de Linguagem Natural
+🛠️ Ferramentas: Python, NLTK, Goose
+
 - [ Hello World ](processamento-de-linguagem-natural/hello-world.ipynb)
 - [ Básico de NLTK (Stemização, Lematização, Gerar Resumo Automáticamente) ](processamento-de-linguagem-natural/aula1.ipynb)
 - [ Resumo Stemização e Lematização ](processamento-de-linguagem-natural/aula2.ipynb)
