@@ -76,6 +76,11 @@
 
 ### Processamento de Linguagem Natural
 - [ Hello World ](processamento-de-linguagem-natural/hello-world.ipynb)
+- [ Básico de NLTK (Stemização, Lematização, Gerar Resumo Automáticamente) ](processamento-de-linguagem-natural/aula1.ipynb)
+- [ Resumo Stemização e Lematização ](processamento-de-linguagem-natural/aula2.ipynb)
+- [ Identificador de Tags ](aula4.ipynb)
+- [ Calcula Similaridade - CountVectorizer, TfidfVectorizer, BigramCollocationFinder ](Aula05_parte01.ipynb)
+- [ Uso da lib goose3 ](CodigoSala.ipynb)
 
 ### Aprendizado de Máquina II
 - [ Pre Processamento ](aprendizado-de-maquina-ii/pre-processamento.ipynb)
