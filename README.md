@@ -87,9 +87,10 @@
 - [ Uso da lib goose3 ](processamento-de-linguagem-natural/CodigoSala.ipynb) 
 - [ Projeto Final - Chatbot ](https://github.com/andredarcie/chatbot-tensorflow) 
   
-### Aprendizado de Máquina II
-- [ Pre Processamento ](aprendizado-de-maquina-ii/pre-processamento.ipynb)
-
+### Aprendizado de Máquina II   
+- [ Pre Processamento ](aprendizado-de-maquina-ii/pre-processamento.ipynb)    
+- [ KNN x Regressão Logística x SVM x MLP - Breast cancer ](aprendizado-de-maquina-ii/Breast_cancer_dataset_KNN_x_Reg_Log_x_SVM_x_MLP_v1.ipynb)   
+    
 ### Análise e Classificação de Imagens
 ### Sistemas de Recomendação
 ### Big Data & Processamento Distribuído
