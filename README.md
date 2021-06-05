@@ -92,6 +92,7 @@
 - [ KNN x Regressão Logística x SVM x MLP - Breast cancer ](aprendizado-de-maquina-ii/Breast_cancer_dataset_KNN_x_Reg_Log_x_SVM_x_MLP_v1.ipynb)   
     
 ### Análise e Classificação de Imagens
+
 ### Sistemas de Recomendação
 ### Big Data & Processamento Distribuído
 
