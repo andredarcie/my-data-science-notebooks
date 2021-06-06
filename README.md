@@ -98,7 +98,10 @@
 - [ NN - Predição politica ](aprendizado-de-maquina-ii/NN_Predicao_politica.ipynb)
 - [ Previsão de preços de habitação na Califórnia ](aprendizado-de-maquina-ii/Tarefa_4_1.ipynb)
 - [ Predição sonar (rocha ou mina) ](aprendizado-de-maquina-ii/Tarefa_4_3.ipynb)
-    
+- [ Predição Chrun ](aprendizado-de-maquina-ii/predicao_churn.ipynb)
+- [ Previsão de Salários ](aprendizado-de-maquina-ii/predicao_churn.ipynb)
+- [ Controle de Overfitting ](aprendizado-de-maquina-ii/controle_de_overfitting.ipynb)
+
 ### Análise e Classificação de Imagens
 ### Sistemas de Recomendação
 ### Big Data & Processamento Distribuído
