@@ -88,11 +88,18 @@
 - [ Projeto Final - Chatbot ](https://github.com/andredarcie/chatbot-tensorflow) 
   
 ### Aprendizado de Máquina II   
-- [ Pre Processamento ](aprendizado-de-maquina-ii/pre-processamento.ipynb)    
+🛠️ Ferramentas: Tensorflow, Keras
+
+- [ Pre Processamento ](aprendizado-de-maquina-ii/pre-processamento.ipynb)   
+- [ Acesso às bases de dados ](aprendizado-de-maquina-ii/acesso-base-de-dados.ipynb) 
+- [ Predição de diabetes - Salvando o modelo ](aprendizado-de-maquina-ii/NN_Indians_Diabetes_save.ipynb)
+- [ Predição de diabetes - Carregando o modelo ](aprendizado-de-maquina-ii/NN_Indians_Diabetes_load.ipynb)
 - [ KNN x Regressão Logística x SVM x MLP - Breast cancer ](aprendizado-de-maquina-ii/Breast_cancer_dataset_KNN_x_Reg_Log_x_SVM_x_MLP_v1.ipynb)   
+- [ NN - Predição politica ](aprendizado-de-maquina-ii/NN_Predicao_politica.ipynb)
+- [ Previsão de preços de habitação na Califórnia ](aprendizado-de-maquina-ii/Tarefa_4_1.ipynb)
+- [ Predição sonar (rocha ou mina) ](aprendizado-de-maquina-ii/Tarefa_4_3.ipynb)
     
 ### Análise e Classificação de Imagens
-
 ### Sistemas de Recomendação
 ### Big Data & Processamento Distribuído
 
