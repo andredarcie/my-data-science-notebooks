@@ -1,51 +1,51 @@
-gameId,title
-1, The Legend of Zelda: Ocarina of Time
-2, Tetris
-3, Super Mario 64
-4,Half-Life 2
-5,Minecraft
-6,Grand Theft Auto V
-7,Super Mario World
-8,Resident Evil 4
-9,Red Dead Redemption
-10,Portal 2
-11,Metal Gear Solid
-12,Halo: Combat Evolved
-13,The Last of Us
-14,GoldenEye 007
-15,The Legend of Zelda: Breath of the Wild
-16,Doom
-17,Street Fighter II
-18,World of Warcraft
-19,Grand Theft Auto: San Andreas
-20,Super Mario Bros.
-21,BioShock
-22,Super Mario Bros. 3
-23,Super Metroid
-24,Final Fantasy VII
-25,Mass Effect 2
-26,Castlevania: Symphony of the Night
-27,Journey
-28,Shadow of the Colossus
-29,The Legend of Zelda: A Link to the Past
-30,Ms. Pac-Man
-31,Metroid Prime
-32,The Witcher 3: Wild Hunt
-33,Super Mario Kart
-34,Chrono Trigger
-35,Dark Souls
-36,The Elder Scrolls V: Skyrim
-37,Super Mario Galaxy 2
-38,Grand Theft Auto: Vice City
-39,Wii Sports
-40,SimCity 2000
-41,CounterStrike
-42,The Legend of Zelda
-43,Uncharted 2: Among Thieves
-44,Donkey Kong
-45,God of War
-46,Final Fantasy VI
-47,Portal
-48,The Sims
-49,Call of Duty 4: Modern Warfare
-50,StarCraft
+gameId,title,genres
+1,The Legend of Zelda: Ocarina of Time,Action-adventure
+2,Tetris, Puzzlers and party games
+3,Super Mario 64, Platformer
+4,Half-Life 2, Shooters (FPS and TPS)
+5,Minecraft, Sandbox
+6,Grand Theft Auto V, Sandbox
+7,Super Mario World, Platformer
+8,Resident Evil 4, Shooters (FPS and TPS)
+9,Red Dead Redemption, Sandbox
+10,Portal 2, Puzzlers and party games
+11,Metal Gear Solid, Action-adventure
+12,Halo: Combat Evolved, Shooters (FPS and TPS)
+13,The Last of Us, Survival and horror
+14,GoldenEye 007, Shooters (FPS and TPS)
+15,The Legend of Zelda: Breath of the Wild, Sandbox
+16,Doom, Shooters (FPS and TPS)
+17,Street Fighter II, Simulation and sports
+18,World of Warcraft, Role-playing
+19,Grand Theft Auto: San Andreas, Sandbox
+20,Super Mario Bros., Platformer
+21,BioShock, Shooters (FPS and TPS)
+22,Super Mario Bros. 3, Platformer
+23,Super Metroid, Platformer
+24,Final Fantasy VII, Role-playing 
+25,Mass Effect 2, Role-playing
+26,Castlevania: Symphony of the Night, Platformer
+27,Journey, Action-adventure
+28,Shadow of the Colossus, Action-adventure
+29,The Legend of Zelda: A Link to the Past, Action-adventure
+30,Ms. Pac-Man, Action-adventure
+31,Metroid Prime, Shooters (FPS and TPS)
+32,The Witcher 3: Wild Hunt, Role-playing
+33,Super Mario Kart, Simulation and sports
+34,Chrono Trigger, Role-playing
+35,Dark Souls, Role-playing
+36,The Elder Scrolls V: Skyrim, Role-playing
+37,Super Mario Galaxy 2, Platformer
+38,Grand Theft Auto: Vice City, Sandbox
+39,Wii Sports, Simulation and sports
+40,SimCity 2000, Simulation and sports
+41,CounterStrike, Shooters (FPS and TPS)
+42,The Legend of Zelda, Action-adventure
+43,Uncharted 2: Among Thieves, Action-adventure
+44,Donkey Kong, Platformer
+45,God of War, Action-adventure
+46,Final Fantasy VI,Role-playing
+47,Portal,Puzzlers and party games
+48,The Sims,Simulation and sports
+49,Call of Duty 4: Modern Warfare, Shooters (FPS and TPS)
+50,StarCraft,Real-time strategy (RTS)
