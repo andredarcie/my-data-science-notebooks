@@ -1,0 +1,27 @@
+Exercícios de MapReduce
+
+1. Utilizando o dataset flights.csv, faça operações MapReduce para calcular:
+a. O tempo total de vôo de cada companhia
+b. Qual é o destino mais visado
+c. Quais aeroportos cada companhia passou
+d. O vôo de maior distância de cada companhia
+e. Qual é o vôo mais frequente de cada companhia
+
+2. Utilizando o dataset shakespeare.txt, faça uma operação de MapReduce para construir um
+índice invertido contendo como chave uma palavra e como valor uma lista de linhas onde
+ela foi mencionada. 
+
+Exemplo:
+    Entrada:
+    Aqui está um trecho
+    O trecho aqui
+    Está
+    Aqui
+    Saída:
+    aqui [0, 1, 3]
+    está [0, 2]
+    o
+    [1]
+    trecho [0, 1]
+    um
+    [0]
