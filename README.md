@@ -106,6 +106,8 @@
 ### Sistemas de Recomendação
 ### Big Data & Processamento Distribuído
 
+- [Comandos principais em Hadoop](big-data-processamento-distribuido/comandos-principais-hadoop.txt)
+
 ## Outros notebooks
 - [YouTube](outros-notebooks/youtube.ipynb)
 - [Wikipedia Crawler](outros-notebooks/video-game-considered-the-best.ipynb)
